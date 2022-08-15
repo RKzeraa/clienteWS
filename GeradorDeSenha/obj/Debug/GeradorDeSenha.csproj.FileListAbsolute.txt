@@ -1,0 +1,10 @@
+C:\Users\rkzer\source\repos\GeradorDeSenha\GeradorDeSenha\bin\Debug\GeradorDeSenha.exe.config
+C:\Users\rkzer\source\repos\GeradorDeSenha\GeradorDeSenha\bin\Debug\GeradorDeSenha.exe
+C:\Users\rkzer\source\repos\GeradorDeSenha\GeradorDeSenha\bin\Debug\GeradorDeSenha.pdb
+C:\Users\rkzer\source\repos\GeradorDeSenha\GeradorDeSenha\obj\Debug\GeradorDeSenha.csproj.AssemblyReference.cache
+C:\Users\rkzer\source\repos\GeradorDeSenha\GeradorDeSenha\obj\Debug\GeradorDeSenha.Form1.resources
+C:\Users\rkzer\source\repos\GeradorDeSenha\GeradorDeSenha\obj\Debug\GeradorDeSenha.Properties.Resources.resources
+C:\Users\rkzer\source\repos\GeradorDeSenha\GeradorDeSenha\obj\Debug\GeradorDeSenha.csproj.GenerateResource.cache
+C:\Users\rkzer\source\repos\GeradorDeSenha\GeradorDeSenha\obj\Debug\GeradorDeSenha.csproj.CoreCompileInputs.cache
+C:\Users\rkzer\source\repos\GeradorDeSenha\GeradorDeSenha\obj\Debug\GeradorDeSenha.exe
+C:\Users\rkzer\source\repos\GeradorDeSenha\GeradorDeSenha\obj\Debug\GeradorDeSenha.pdb
